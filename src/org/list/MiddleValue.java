@@ -20,6 +20,8 @@ public class MiddleValue {
 			  System.out.println(middle); 
 			  System.out.println(middle); 
 			  System.out.println(middle); 
+			  System.out.println("bharath"); 
+			  System.out.println("bharath"); 
 			  
 		  }
 		  }
