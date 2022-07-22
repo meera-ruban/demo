@@ -18,6 +18,9 @@ public class MiddleValue {
 		  int middle=li.get(m);
 		
 			  System.out.println(middle); 
+			  System.out.println(middle); 
+			  System.out.println(middle); 
+			  
 		  }
 		  }
 		  
