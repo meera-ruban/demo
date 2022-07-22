@@ -19,6 +19,7 @@ public class MiddleValue {
 		
 			  System.out.println(middle); 
 			  System.out.println("meeral"); 
+			  System.out.println("meeral"); 
 
 		  }
 		  }
